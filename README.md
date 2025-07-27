@@ -1,4 +1,4 @@
-# Genome-Data-Analysis
+# Genome-DNA
 Genome Data Analysis Project
 Table of Contents
 Introduction
